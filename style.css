@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Nuosu+SIL&display=swap');
+#header{
+	padding: 25px 0 20px 0;
+	background-color: black;
+	font-family: 'Nuosu SIL', serif;
+}
+#upper-menu li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 22px 0 22px;
+}
+#upper-menu li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+}
+#sub-header{
+	padding: 17px 0 17px 0;
+	background-color: #f8f8f8;
+	font-family: 'Nuosu SIL', serif;
+}
+#sub-text li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 20px 0 20px;
+	font-weight: bold;
+}
+#sub-text li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #606060;
+}
+#first-hero{
+	padding: 120px 0 20px 0;
+	text-align: center;
+	font-family: 'Nuosu SIL', serif;
+}
+#first-title{
+	font-size: 45px;
+	font-weight: bold;
+}
+#first-date{
+	font-size: 23px;
+}
+#first-img{
+	width: 50%;
+    display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+#first-hero-info{
+	padding: 22px 0 35px 0;
+}
+#first-hero-text{
+	list-style-type: none;
+	display: inline;
+	font-family: 'Lato', sans-serif;
+}
+#first-hero-read-more{
+	padding: 0 0 40px 0;
+}
+#first-inline-read-more a{
+	display: inline;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	padding: 0 20px 0 20px;
+	font-family: 'Nuosu SIL', serif;
+}
+#divide{
+	width: 50%;
+    display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	padding: 0 0 67px 0;
+}
+#second-hero{
+	padding: 50px 0 20px 0;
+	text-align: center;
+	font-family: 'Nuosu SIL', serif;
+}
+#second-title{
+	font-size: 45px;
+	font-weight: bold;
+}
+#second-date{
+	font-size: 23px;
+}
+#second-img{
+	width: 50%;
+    display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+#second-hero-info{
+	padding: 22px 0 35px 0;
+}
+#second-hero-text{
+	list-style-type: none;
+	display: inline;
+	font-family: 'Lato', sans-serif;
+}
+#second-hero-read-more{
+	padding: 0 0 40px 0;
+}
+#second-inline-read-more a{
+	display: inline;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	padding: 0 20px 0 20px;
+	font-family: 'Nuosu SIL', serif;
+}
+#main-pages{
+	padding: 0 0 40px 0;
+}
+#pages li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 30px 0 30px;
+}
+#pages li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+}
+#footer{
+	padding: 0 0 50px 0;
+}
+#about-us li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 15px 0 15px;
+	font-weight: bold;
+}
+#about-us li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #606060;
+}
+#social-media li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 15px 0 15px;
+}
+#social-media li a{
+	text-transform: uppercase;
+	text-decoration: none;
+}
